@@ -1,0 +1,44 @@
+PYTHON 
+sirve para escribir indicaciones 
+
+	Compilado
+ Tenemos u progrma y la compu te dice errores y la compu te dice la compu la pasa y la analiza y 
+
+	Interpretado
+El  interpretado te dice linea por linea y si falla una linea ya no pasa a la segundda
+
+    NIVELES DE LENGUAJE DE PROGRAMACION
+	
+	Lenguaje ensamblador es de bajo novel mse interactua directamente con el driver 
+	Medio como lenguaje C entende el ensamblador y el de compilador 
+	Alto nivel Capacidad de interactur con la maquiena 
+
+		Repositorio	
+GitHub "Compartir codigo" compartie cpdigo y guardar codigo
+
+
+Tipo de operadores 
+int,float,double,modulos(residuo de division ), exponente , boolean 
+Comparacion 
+= , == ,  ! (diferente que), > < => =< , 
+
+QUE ES PYTHON 
+lenguaje de programacoion interpretado 
+RUSO Guido guido van Russon
+
+: dos puntos indentacion para delimitar bloquew  funciones bucles(no se cierra)
+
+mujltiparadigma permite a los programadores adopten diferentes estilos
+programacion estructurada (lineal de arriba a abajo )
+prog funcional (se utilizan funciones)
+poo ()
+
+ID PYTHON 
+
+Palabras reservadas de python 
+se concatena con la coma-- , --
+ 
+
+
+
+
