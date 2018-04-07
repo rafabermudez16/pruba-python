@@ -1,0 +1,10 @@
+PYTHON 
+sirve para escribir indicaciones 
+compilado tenemos u progrma y la compu te dice errores y la compu te dice la compu la pasa y la analiza y 
+el  interpretado te dice linea por linea y si falla una linea ya no pasa a la segundda
+
+lenguaje ensamblador es de bajo novel mse interactua directamente con el driver 
+medio como lenguaje C entende el ensamblador y el de compilador 
+Alto nivel Capacidad de interactur con la maquiena 
+
+Repositorio	GitHub "Compartir codigo" compartie cpdigo y guardar codigo
