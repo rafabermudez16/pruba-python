@@ -8,3 +8,5 @@ medio como lenguaje C entende el ensamblador y el de compilador
 Alto nivel Capacidad de interactur con la maquiena 
 
 Repositorio	GitHub "Compartir codigo" compartie cpdigo y guardar codigo
+
+Aqui le tenemos que poner en la nparte de comentarios para mayor facilidad
